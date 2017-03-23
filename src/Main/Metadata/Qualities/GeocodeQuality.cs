@@ -4,7 +4,13 @@ namespace USC.GISResearchLab.Geocoding.Core.Metadata.Qualities
     {
         Unmatchable,
         Unknown,
+        AddressPoint,
         GPS,
+        CountyParcel,
+        RoofTop,
+        ParcelCentroid,
+        PrimaryStructureEntrance,
+        DrivewayEntrance,
         BuildingFrontDoor,
         BuildingCentroid,
         ExactParcelCentroidPoint,
