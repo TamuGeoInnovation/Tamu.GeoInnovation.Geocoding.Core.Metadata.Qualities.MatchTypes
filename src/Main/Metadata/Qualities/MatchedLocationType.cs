@@ -17,5 +17,5 @@ namespace USC.GISResearchLab.Geocoding.Core.Metadata.Qualities
         Unmatchable
     }
 
-    
+
 }
